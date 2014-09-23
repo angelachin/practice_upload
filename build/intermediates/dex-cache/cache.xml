@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\angel_000\AndroidstudioProjects\MyFirstApp2\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-fa6834860eade6af2fb8af60a59124a52ca71665.jar"
+        jar="C:\Users\angel_000\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.1.1\ab19bfb23f641f189b6dca9a4d393f8dc291103a\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a"/>
+    <item
+        dex="C:\Users\angel_000\AndroidstudioProjects\MyFirstApp2\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-dad5943d1c885ba6f5ef0ebe787ac72551e5cba3.jar"
+        jar="C:\Users\angel_000\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.4\3bae85a076241828810bf8fbcc12e5891d5fc34c\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c"/>
+
+</pre-dex-items>
